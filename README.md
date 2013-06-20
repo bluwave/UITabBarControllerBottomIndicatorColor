@@ -1,7 +1,7 @@
 
 all the functionality for this is in the category ```UITabBarController+SelectedTabBottomIndicator.h / .m```
 
-![UITabBarController+SelectedTabBottomIndicator.m](/TabTest/UITabBarController+SelectedTabBottomIndicator.m "UITabBarController+SelectedTabBottomIndicator.m")
+[UITabBarController+SelectedTabBottomIndicator.m](/TabTest/UITabBarController+SelectedTabBottomIndicator.m "UITabBarController+SelectedTabBottomIndicator.m")
 
 
 do the following after setting your viewControllers on the tabBarController:
